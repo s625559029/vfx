@@ -1,0 +1,10 @@
+
+
+//Change translate
+        for(int num = 0; num < 36; num++) {
+            parms[num].translate = speed * id * translate_list[num];
+            float cur_num = num - id * amp_speed;
+            if(cur_num < 0) parms[num].amplitude = 1 + my_amplitude * mySin(num - id * amp_speed - 3.14/2);
+            cout << parms[num].amplitude << endl;
+            FSPN[num].setParameters(parms[num]);
+        }

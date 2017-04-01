@@ -1,0 +1,3 @@
+/DPA/jedi/xiaohao/Wedges/cmake-build-debug/CMakeFiles/edit_cache.dir
+/DPA/jedi/xiaohao/Wedges/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/DPA/jedi/xiaohao/Wedges/cmake-build-debug/CMakeFiles/wedges.dir
